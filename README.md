@@ -2,11 +2,12 @@
 
 Proyecto inicial para crear apps webpack
 
-### Notes :
+### Notes:
 modules node rebuild
-
+```
 npm i
+```
 
 reconstruir build
-
+```
 npm run build
